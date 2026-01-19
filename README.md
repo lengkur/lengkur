@@ -16,7 +16,7 @@
 - 🛠️ **Languages & Tech Stack**:
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=php,py,js,mysql,cpp,html" />
+      <img src="https://skillicons.dev/icons?i=php,py,js,mysql,c,cpp,html" />
     </a>
   </p>
 
