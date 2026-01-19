@@ -38,6 +38,5 @@
 
 ### 📬 Connect with me
 [<img src="https://img.shields.io/badge/Blog-Visit%20Wiki-blue?style=for-the-badge&logo=gitbook&logoColor=white" />](https://lengkur.github.io)
-[<img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-fb7299?style=for-the-badge&logo=bilibili&logoColor=white" />](你的B站主页链接)
-
+[<img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:1096914899@qq.com)
 > "Simple is better than complex." —— Arch Linux Philosophy
