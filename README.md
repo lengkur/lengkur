@@ -11,7 +11,7 @@
 
 ### 🛡️ Web Security & CTF
 - 🚩 **Focus**: Web Exploitation / Vulnerability Research.
-- ✍️ **Writeups**: I post my CTF solutions (NSSCTF, CTFShow, etc.) on my **[Technical Wiki](https://lengkur.github.io)**.
+- ✍️ **Writeups**: I post my CTF competition writeups and Web Security study notes on my **[Technical Wiki](https://lengkur.github.io)**.
 - 🔧 **Toolkit**: Burp Suite, SQLMap, hashclash, curl, sstimap，dirsearch，ffuf，antWord，dvcs-ripper, BlackLinux.
 - 🛠️ **Languages & Tech Stack**:
   <p align="left">
