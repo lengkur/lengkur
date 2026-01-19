@@ -12,7 +12,15 @@
 ### 🛡️ Web Security & CTF
 - 🚩 **Focus**: Web Exploitation / Vulnerability Research.
 - ✍️ **Writeups**: I post my CTF solutions (NSSCTF, CTFShow, etc.) on my **[Technical Wiki](https://lengkur.github.io)**.
-- 🔧 **Toolkit**: Burp Suite, SQLMap, Python, PHP, Linux.
+- 🔧 **Toolkit**: Burp Suite, SQLMap, hashclash, curl, sstimap，dirsearch，ffuf，antWord，dvcs-ripper, BlackLinux.
+- 🛠️ **Languages & Tech Stack**:
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=php,py,js,mysql,cpp,html,css,linux,docker" />
+    </a>
+  </p>
+
+---
 
 ### 💻 My Desktop Environment
 - **Distribution**: Arch Linux (Rolling Release)
